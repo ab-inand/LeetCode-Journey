@@ -55,7 +55,7 @@ The solutions are organized in the table below. You can click on the problem tit
 I'm always open to discussing solutions, algorithms, or anything tech-related. Feel free to connect with me!
 
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
