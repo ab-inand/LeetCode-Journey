@@ -44,7 +44,7 @@ The solutions are organized in the table below. You can click on the problem tit
 ### ## My Approach to Problem Solving
 
 1.  **Understand:** Read the problem carefully, identifying constraints and edge cases.
-2.  **Plan:** Whiteboard a brute-force solution, then optimize. Analyze time ($O(n)$) and space ($O(n)$) complexities.
+2.  **Plan:** Whiteboard a brute-force solution, then optimize. Analyze time and space complexities.
 3.  **Implement:** Write clean, readable, and well-commented code.
 4.  **Review & Refactor:** Review the solution for improvements and refactor for clarity and efficiency.
 
